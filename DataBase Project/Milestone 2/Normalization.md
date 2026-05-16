@@ -213,7 +213,5 @@ The ERD has been updated to **v2.0**, reflecting all corrections and additions m
 ## 👩‍💻 **Authors**
 
 **Members:** *Areeba Ali & Syeda Shandana Shah*
-**Instructor:** * Ali Hassan*
-**Program:** *BS Artificial Intelligence — Semester 4th (B)*
 
 ---
