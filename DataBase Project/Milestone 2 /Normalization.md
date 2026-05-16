@@ -12,7 +12,7 @@ Milestone 2 covers the formal **Normalization** of the database schema, structur
 | 👩‍💻 **Members** | Areeba Ali & Syeda Shandana Shah |
 | 🎓 **Program** | BS Artificial Intelligence |
 | 📅 **Semester** | 4th (B) |
-| 👨‍🏫 **Instructor** | Sir Ali Hasan |
+| 👨‍🏫 **Instructor** |  Ali Hassan |
 
 ---
 
@@ -20,8 +20,7 @@ Milestone 2 covers the formal **Normalization** of the database schema, structur
 
 | Milestone | Date | Version | Remarks |
 |---|---|:---:|---|
-| 🗂️ ERD Diagram & Schema | April 25, 2026 | `v1.0` | Original submission |
-| 🔄 Schema & ERD Update | May 2026 | `v1.1` | Added BlackHole, Galaxy; updated UserNotes |
+| 🗂️ ERD Diagram & Schema | April 25, 2026 | `v1.0` | Flowchart |
 | ✅ Normalization (M2) | May 2026 | `v2.0` | 3NF applied to all 6 tables; ERD updated |
 
 ---
@@ -214,7 +213,7 @@ The ERD has been updated to **v2.0**, reflecting all corrections and additions m
 ## 👩‍💻 **Authors**
 
 **Members:** *Areeba Ali & Syeda Shandana Shah*
-**Instructor:** *Sir Ali Hasan*
+**Instructor:** * Ali Hassan*
 **Program:** *BS Artificial Intelligence — Semester 4th (B)*
 
 ---
