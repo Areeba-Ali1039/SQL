@@ -79,7 +79,7 @@ Milestone 2 covers the formal **Normalization** of the database schema, structur
 
 ---
 
-### 🕳️ Table 4: BlackHole *(added in v1.1)*
+### 🕳️ Table 4: BlackHole *(New)*
 
 | Column | Data Type | Constraint | Description |
 |---|---|---|---|
@@ -93,7 +93,7 @@ Milestone 2 covers the formal **Normalization** of the database schema, structur
 
 ---
 
-### 🌌 Table 5: Galaxy *(added in v1.1)*
+### 🌌 Table 5: Galaxy *(New)*
 
 | Column | Data Type | Constraint | Description |
 |---|---|---|---|
@@ -108,7 +108,7 @@ Milestone 2 covers the formal **Normalization** of the database schema, structur
 
 ---
 
-### 📝 Table 6: UserNotes *(updated in v1.1)*
+### 📝 Table 6: UserNotes *(New)*
 
 | Column | Data Type | Constraint | Description |
 |---|---|---|---|
